@@ -42,4 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-  </ul>
+</ul>
